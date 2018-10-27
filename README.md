@@ -1,2 +1,2 @@
-# Tyoescript NodeJs API for Customer Management
+# Typescript NodeJs API for Customer Management
 Loading...
